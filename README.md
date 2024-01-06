@@ -1,4 +1,4 @@
-```
+```mermaid
 sequenceDiagram
 Alice->>John: Hello John, how are you?
 loop Healthcheck
